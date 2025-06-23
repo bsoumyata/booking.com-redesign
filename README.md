@@ -27,7 +27,7 @@ Designed a toggle-based price breakdown feature that displays total costs upfron
 ## Project Links
 
 - [Figma Prototype](https://www.figma.com/design/mpYznaZamzFbTjD9UxC6Gg/Booking.com---Redsign?node-id=0-1&t=aM3cJ2kYjrTrZfGh-1)
-- [Project Presentation (PDF)](./Booking.com%20UX%20Project.pdf)
+- [Project Presentation (PDF)](./Booking.com%20Redesign%20Presentation.pdf)
 
 ## Demo Videos
 

@@ -1,19 +1,20 @@
 # Booking.com Transparency Redesign
 
-**Role:** UX Researcher & Product Strategist  
 **Duration:** January 2025 — April 2025
 
 ## Project Overview
 
-This project addresses user pain points around hidden fees and unclear policies on Booking.com. The goal was to empower users to make confident decisions through clearer cost communication.
+This UX project focuses on improving pricing transparency on Booking.com by addressing user frustrations around hidden fees and unclear policies. The objective was to help users make more confident booking decisions through better cost visibility.
 
 ## Key Activities
 
-- Conducted user interviews to identify pain points.
-- Synthesized insights to define the design challenge.
-- Proposed a toggle-based price breakdown feature to display total costs upfront.
-- Created a Figma prototype reflecting user needs.
-- Presented findings and solutions to stakeholders as part of a course capstone.
+- Interviewed a diverse mix of travelers (backpackers, business/leisure users, agent-dependent, and OTA power users) to explore pain points around hidden fees and unclear pricing.
+- Used 4x4 matrices and journey mapping to synthesize insights and empathize with users’ emotional and functional pain points throughout the booking process.
+- Defined personas and mapped user goals to keep the solution grounded in real needs.
+- Created high-fidelity prototypes using Figma.
+- Conducted A/B testing to compare usability and user preference.
+- Refined design based on feedback.
+- Presented findings and solutions as part of the final presentation.
 
 ## Design Challenge
 
@@ -21,7 +22,7 @@ This project addresses user pain points around hidden fees and unclear policies 
 
 ## Solution
 
-A toggle-based price breakdown feature was designed to increase booking clarity by displaying total costs upfront.
+Designed a toggle-based price breakdown feature that displays total costs upfront on the property listings page. This was selected after A/B testing against an overlay pop-up prototype, with users favoring the toggle for its simplicity, clarity, and ease of comparison while browsing.
 
 ## Project Links
 

@@ -1,6 +1,6 @@
 # Booking.com Transparency Redesign
 
-**Duration:** January 2025 — April 2025
+**Duration:** January 2025 — May 2025
 
 ## Project Overview
 

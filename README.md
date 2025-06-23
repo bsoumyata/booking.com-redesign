@@ -31,5 +31,5 @@ Designed a toggle-based price breakdown feature that displays total costs upfron
 
 ## Demo Videos
 
-- [Overlay Prototype](./Demo/Overlay%20Prototype.mp4)
-- [Toggle Switch Prototype](./Demo/Toggle%20Switch%20Prototype.mp4)
+- [Overlay Prototype](https://youtu.be/-r9IAGSkvHg)
+- [Toggle Switch Prototype](https://youtu.be/etenO-oClNI)

@@ -12,7 +12,7 @@ This UX project focuses on improving pricing transparency on Booking.com by addr
 - Used 4x4 matrices and journey mapping to synthesize insights and empathize with users’ emotional and functional pain points throughout the booking process.
 - Defined personas and mapped user goals to keep the solution grounded in real needs.
 - Created high-fidelity prototypes using Figma.
-- Conducted A/B testing to compare usability and user preference.
+- Conducted user testing to compare usability and user preference.
 - Refined design based on feedback.
 - Presented findings and solutions as part of the final presentation.
 

@@ -22,7 +22,7 @@ This UX project focuses on improving pricing transparency on Booking.com by addr
 
 ## Solution
 
-Designed a toggle-based price breakdown feature that displays total costs upfront on the property listings page. This was selected after A/B testing against an overlay pop-up prototype, with users favoring the toggle for its simplicity, clarity, and ease of comparison while browsing.
+Designed a toggle-based price breakdown feature that displays total costs upfront on the property listings page. This was selected after testing against an overlay pop-up prototype, with users favoring the toggle for its simplicity, clarity, and ease of comparison while browsing.
 
 ## Project Links
 
